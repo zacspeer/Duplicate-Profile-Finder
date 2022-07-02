@@ -14,10 +14,10 @@ class Compare():
             if(scores.get(fields[i])!=''):
                 if(scores.get(fields[i])==100):
                     total = total + 1
-                    matching.append(scores.get(fields[i]))
+                    matching.append(fields[i])
                 else:
                     total = total - 1
-                    nMatching.append(scores.get(fields[i]))
+                    nMatching.append(fields[i])
             i= i+1
         return total, matching, nMatching
         

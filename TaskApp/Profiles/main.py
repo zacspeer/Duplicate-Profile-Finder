@@ -42,7 +42,6 @@ class Dupe:
         for key,value in result.items():
             if(value == ''):
                 skipped_values.append(key)
-        print(result)
         print("\nProfile 1, Profile 2, total match score : ", final_score, "\nMatching attributes: ", matching_fields)
         print("Non-matching attributes: ", non_matching)
         print("Ignored attributes: ", skipped_values)
