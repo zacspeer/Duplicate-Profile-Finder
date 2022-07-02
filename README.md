@@ -1,6 +1,7 @@
-<h1>Simple Duplicate Profile Finder app using Django framework</h1>
+# Simple Duplicate Profile Finder app using Django framework
 
-Description: This is a simple app which takes in the User profile and finds the duplicate/similar profiles. This is built using Django and uses fuzzywuzzy library for string matching(Learn more about it here: https://pypi.org/project/fuzzywuzzy/).
+<h3><b> Description:</b></h3> This is a simple app which takes in the User profile and finds the duplicate/similar profiles. This is built using Django and uses fuzzywuzzy library for string matching(Learn more about it here: https://pypi.org/project/fuzzywuzzy/).
+<hr>
 Hi, to run this app please follow the instructions below.
 
 * First clone this repository and extract it.
