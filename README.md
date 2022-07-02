@@ -1,11 +1,11 @@
-<h1>Simple Duplicate Finder app using Django framework</h1>
+<h1>Simple Duplicate Profile Finder app using Django framework</h1>
 
 Hi, to run this app please follow the instructions below.
 
 * First clone this repository and extract it.
 * Navigate your IDE to the extracted folder and open a terminal in the root of the Django project(where the manage.py is located)
 * In the terminal run this command 'pip install -r requirements.txt'. This will install all the dependencies for this project.
-* In the terminal you need to run two commands, 'python manage.py makemigrations' and 'python manage.py migrate'. This will initialize our app for use
+* In the terminal you need to run two commands, 'python manage.py makemigrations' and 'python manage.py migrate'. This will initialize the app for use
 * In the terminal, run this command. 'python manage.py shell'. This will open up Python's interactive shell. If there are no issues you should see ">>>" on the left side (please refer the image below)
 ![image](https://user-images.githubusercontent.com/42238198/177015958-1804988c-dd97-4e60-8c78-062eda20568c.png)
 
