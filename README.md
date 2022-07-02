@@ -24,4 +24,5 @@ Hi, to run this app please follow the instructions below.
 ![image](https://user-images.githubusercontent.com/42238198/177016294-2cd5d561-58ce-4faf-9034-b45546c07bae.png)
 
 <hr>
-If you have any issues please feel free to reach out to me at manu190200@gmail.com
+
+If you have any issues please feel free to reach out to me at   manu190200@gmail.com
